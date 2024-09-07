@@ -8,7 +8,7 @@ import java.util.Arrays;
 // O(nlog(n))->bestCase
 
 // space complexity
-// O(1)
+// O(n)
 
 public class MergeSort {
     public static void main(String[] args) {

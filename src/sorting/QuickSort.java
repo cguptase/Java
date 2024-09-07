@@ -8,7 +8,7 @@ import java.util.Arrays;
 // O(nlog(n))->bestCase
 
 // space complexity
-// O(1)
+// O(log n)
 
 public class QuickSort {
     public static void main(String[] args) {
